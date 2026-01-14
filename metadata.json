@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EpiTrack - Disease Data Analytics",
+  "description": "A comprehensive dashboard for processing, visualizing, and analyzing disease data with AI-powered insights and Google Apps Script generation capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
